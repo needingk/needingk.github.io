@@ -1,2 +1,2 @@
 # needingk.github.io
-print("Hello")
+On a journey to create my own website :)
